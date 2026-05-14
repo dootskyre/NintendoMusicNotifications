@@ -1,6 +1,6 @@
 # [Nintendo Music Updates](https://github.com/dootskyre/NintendoMusicNotifications/releases/latest)
 
-This Shortcut checks for Nintendo Music notifications at a specified time, and if one is detected, gives you a notification or sends message via webhook with all the information about the update.
+This Shortcut checks for Nintendo Music notifications at a specified time, and if one is detected, gives you a notification or sends a message via webhook with all the information about the update.
 
 Specifically, when run, the Shortcut will send a notification/webhook if tracks have been added in the past 10 minutes, otherwise it will give an information popup if the user is actively in the Shortcuts app.
 
