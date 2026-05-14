@@ -1,4 +1,4 @@
-# [Nintendo Music Updates](https://github.com/dootskyre/NintendoMusicNotifications/releases/latest)
+# [Nintendo Music Notifications](https://github.com/dootskyre/NintendoMusicNotifications/releases/latest)
 
 <img width="348" height="110" alt="Screenshot 1879" src="https://github.com/user-attachments/assets/cbaeb301-d9e0-410b-8c46-40138feef8ac" />
 
