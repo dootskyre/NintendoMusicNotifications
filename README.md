@@ -1,4 +1,4 @@
-# [Nintendo Music Updates](https://image-assets.m.nintendo.com/421fe88f-d0da-4175-91eb-c721e8553aa1)
+# [Nintendo Music Updates](https://github.com/dootskyre/NintendoMusicNotifications/releases/latest)
 
 This Shortcut checks for Nintendo Music notifications at a specified time, and if one is detected, gives you a notification or sends message via webhook with all the information about the update.
 
