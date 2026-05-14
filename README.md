@@ -11,11 +11,14 @@ The Shortcut supports all types of news from the Nintendo Music app. This includ
 ## Installation
 To install, click **[here](https://github.com/dootskyre/NintendoMusicNotifications/releases/latest)** to go to the releases page, then click the installation link or download the shortcut ZIP to install the shortcut.
 
-## Automation details
-Typically, updates happen weekly on Mondays at 5:00PM PST, but sometimes they are moved to a later day in the week for cases such as Special Releases. As a result, it's usually best to set the shortcut to **run daily at 5:00PM PST**, because if nothing happens, you won't recieve any sort of notification.
+## Setup
+The Shortcut should be run once prior to adding the Automation because it will ensure permissions are set up correctly, and will tell you what local time to set the Automation to. 
+
+Typically, updates happen weekly on Mondays at 5:00PM PST, but sometimes they are moved to a later day in the week for cases such as Special Releases. As a result, it's usually best to set the shortcut to run **daily** at 5:00PM PST. If nothing updates, you won't recieve any notifications.
+
+There are also a couple settings you can change within the Shortcut editor, listed below.
 
 ## Settings
-There are a couple settings you can change within the Shortcut editor:
 
 ### Playlist Update Image
 By default, this Shortcut will use the game/playlist icon for notifications. You can configure this to show the highlights banner instead, which may have imagery more relevant to the update, but won't scale properly to notifications. If using the webhook, the highlights banner is probably preferred as it takes up the message width.
