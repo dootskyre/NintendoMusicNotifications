@@ -25,7 +25,9 @@ By default, this Shortcut will use the game/playlist icon for notifications. You
 
 ### Webhooks 
 This uses a Dictionary to store various Webhook URLs.
+
 The “key” is the webhook URL you get from Discord. You can also put a label beforehand if you want, eg. “My Server https://…”
+
 The “value” is any text you want added to the message sent from the shortcut. <@&role-id> can be used to ping a specific role. You can leave it blank if you want. 
 You can add multiple channel webhooks by adding items to the list. Each webhook will only use the additional text assigned to it.
 
