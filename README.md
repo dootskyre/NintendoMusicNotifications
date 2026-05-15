@@ -9,7 +9,7 @@ Specifically, when run, the Shortcut will send a notification/webhook if tracks 
 The Shortcut supports all types of news from the Nintendo Music app. This includes new games, new playlists, and new home sections. When a playlist or game is added, a link to the playlist (or All Tracks in the case of games) and the image associated with it will be included in the notification/message.
 
 ## Installation & Setup
-To install, click **[here](https://github.com/dootskyre/NintendoMusicNotifications/releases/latest)** to go to the releases page, then click the installation link or download the shortcut ZIP to install the shortcut.
+To install, click **[here](https://github.com/dootskyre/NintendoMusicNotifications/releases/latest)** to go to the releases page, then click the link to download the shortcut.
 
 The Shortcut should be run once prior to adding the Automation because it will ensure permissions are set up correctly, and will tell you what local time to set the Automation to. 
 
